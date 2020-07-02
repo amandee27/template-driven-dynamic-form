@@ -1,0 +1,16 @@
+{
+    "isEnabled": true,
+    "type": "text",
+    "label": "First Name",
+    "rquired": true
+  }, {
+    "isEnabled": true,
+    "type": "number",
+    "label": "Age",
+    "rquired": true
+  }, {
+    "isEnabled": false,
+    "type": "email",
+    "label": "Email",
+    "rquired": false
+  }
